@@ -1,1 +1,1 @@
-# entregable1https://app.netlify.com/sites/entregable-react-1/settings/domain
+# entregable1https://github.com/f4814n69/entregable1
